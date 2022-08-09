@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is NOT compatible with Silverlight-->
+<Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+    <Grid Name="svg5" Width="100" Height="100">
+        <Grid Name="layer1">
+            <Ellipse Width="100" Height="100" Fill="#FF000000" StrokeThickness="0.264583"/>
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FFFFFFFF" >Button</TextBlock>
+        </Grid>
+    </Grid>
+</Viewbox>
